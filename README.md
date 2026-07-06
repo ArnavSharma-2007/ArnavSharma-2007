@@ -1,13 +1,16 @@
-<div align="center">
+<!-- Animated wave banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header&text=Hi%2C%20I%27m%20Arnav%20Sharma%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-# 👋 Hi, I'm Arnav Sharma
+<div align="center">
 
 ### ⚡ Electrical Engineer · 💻 Tech Enthusiast · 🤖 AI Explorer
 
+<!-- Typing animation -->
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Electrical+Engineering+Student;Python+%7C+C%2B%2B+%7C+Web+Dev;AI+%26+ML+Enthusiast;Building+the+Future+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&height=50&lines=Electrical+Engineering+Student+%F0%9F%8E%93;Python+%7C+C%2B%2B+%7C+Web+Dev+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+the+Future+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
+<!-- Social badges -->
 <p>
   <a href="https://arnavsharma-2007.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-arnavsharma--2007.github.io-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
@@ -20,6 +23,7 @@
   </a>
 </p>
 
+<!-- Profile views -->
 <img src="https://komarev.com/ghpvc/?username=ArnavSharma-2007&label=Profile%20Views&color=6E40C9&style=flat-square" alt="Profile Views"/>
 
 </div>
